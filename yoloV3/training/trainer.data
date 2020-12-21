@@ -1,0 +1,7 @@
+classes=5
+train= C:/Users/dodi/Documents/object-detection/yoloV3/training/train.txt # put your own path here
+valid= C:/Users/dodi/Documents/object-detection/yoloV3/training/test.txt # put your own path here
+names= C:/Users/dodi/Documents/object-detection/yoloV3/training/object.names # put your own path here
+backup= backup/
+eval=coco
+
